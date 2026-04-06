@@ -1,60 +1,86 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Crystal Ball" width="40" height="40" /> Decode Creators
+<div align="center">
+  <img src="https://iili.io/BAXQKL7.png" alt="DECODE_LOGO" width="220" />
+</div>
 
-### **Crafting Minimalist Digital Experiences.**
-An indie development studio by **Shammas** (Phynoxis), specializing in high-performance web, mobile, and game solutions with a premium, Apple-inspired aesthetic.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=DECODE&fontSize=90&animation=fadeIn&fontAlignY=38&textBg=false&desc=MINIMALISM%20//%20INTELLIGENCE%20//%20IMPACT&descSize=16&descAlignY=65" width="100%" />
+</div>
 
----
-
-## 🛠️ Tech Stack & Ecosystem
-
-| **Web** | **Mobile** | **Gaming** | **Intelligence** |
-| :--- | :--- | :--- | :--- |
-| Next.js / React | Kotlin / XML | Unity 3D | OpenAI / Gemini |
-| Tailwind CSS | Jetpack Compose | C# Scripting | Firebase Auth/DB |
-| Framer Motion | libVLC / ExoPlayer | Shader Lab | API Integration |
-
----
-
-## 🚀 Featured Projects
-
-### 🌌 [Orbit](https://github.com/your-username/orbit)
-> **Real-time Social Connect.** A web-based stranger chat platform built for seamless, real-time interactions using Next.js and React.
-
-### 🤖 [LUMI v4 (OS)](https://github.com/your-username/lumi)
-> **Next-Gen AI Assistant.** A sophisticated chatbot architecture managing multiple API keys with persistent Firebase memory.
-
-### 🎥 [FX Video Player](https://github.com/your-username/fx-video)
-> **Professional Playback.** An advanced Android player supporting all formats via libVLC, featuring a gesture-based minimalist UI.
-
-### 🧮 [Apple Calculator Clone](https://github.com/your-username/ios-calc-android)
-> **Pixel-Perfect Logic.** A high-fidelity reconstruction of the iOS calculator for Android, focused on precision and haptics.
+<div align="center">
+  <img src="https://img.shields.io/badge/DECODE-Creators-000000?style=for-the-badge&logo=apple&logoColor=FF3333" />
+  <img src="https://img.shields.io/badge/BASED_IN-KERALA-000000?style=for-the-badge&logoColor=FF3333" />
+  <img src="https://img.shields.io/badge/EST-2026-000000?style=for-the-badge&logoColor=FF3333" />
+</div>
 
 ---
 
-## 📈 Engineering Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" alt="Stats" />
-</p>
+### 🛡️ The Doctrine
+We are an elite software studio focused on **high-performance systems** and **uncompromising aesthetics**. DECODE isn’t about just building; it’s about refining the digital infrastructure with intelligence and precision.
 
 ---
 
-## 🤝 Connect with the Studio
+### 🛠️ Core Capabilities
 
-We are currently open for **Premium Freelance Collaborations**.
-
-* **Primary:** [+91 75105 23750](https://wa.me/917510523750)
-* **Mail:** [decodecreaters@gmail.com](mailto:decodecreaters@gmail.com)
-* **Socials:** [LinkedIn](your-link) / [Instagram](your-link) / [X](your-link)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Next.js Architect</h4>
+      <ul>
+        <li>Real-time Platforms (Orbit)</li>
+        <li>Server Components / React 19</li>
+        <li>Tailwind CSS / Framer Motion</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Native Engineering (Kotlin)</h4>
+      <ul>
+        <li>High-Fidelity Audio/Video (FX Player)</li>
+        <li>Pixel-Perfect iOS Reconstruction (Calc Clone)</li>
+        <li>Jetpack Compose / Material 3</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Applied Intelligence (AI)</h4>
+      <ul>
+        <li>LUMI_OS Architecture</li>
+        <li>Multi-LLM API Integration (Gemini, GPT)</li>
+        <li>Firebase Real-time Memory</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎮 Game Theory (Unity)</h4>
+      <ul>
+        <li>Game Mechanics Design / C#</li>
+        <li>Shader Lab / Graphic Optimization</li>
+        <li>Physics Simulation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
+
+### 📈 Operational Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Minimalism-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Quality-Pixel--Perfect-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Region-Kerala,%20India-000000?style=for-the-badge" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=00000000&ring=FF3333&stroke=FF3333&currStreakNum=FF3333&currStreakLabel=FF3333&sideNums=FF3333&sideLabels=666666" alt="Streak Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=999999&icon_color=FF3333" alt="Top Langs" width="49%" />
 </p>
 
-<p align="center" style="opacity: 0.3;">
-  &copy; 2026 Decode Creators // Phynoxis
+---
+
+### 📬 Direct Secure Channel
+
+<p align="left">
+<a href="https://wa.me/919074271791"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:decodecreaters@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/decode-creaters"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="right">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&text_color=666666&bg_color=00000000&title_color=FF3333" />
 </p>
