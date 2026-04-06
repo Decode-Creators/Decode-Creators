@@ -65,8 +65,8 @@ We are an elite software studio focused on **high-performance systems** and **un
 ### 📈 Operational Analytics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=00000000&ring=FF3333&stroke=FF3333&currStreakNum=FF3333&currStreakLabel=FF3333&sideNums=FF3333&sideLabels=666666" alt="Streak Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=999999&icon_color=FF3333" alt="Top Langs" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Decode-Creators&theme=dark&hide_border=true&background=00000000&ring=FF3333&stroke=FF3333&currStreakNum=FF3333&currStreakLabel=FF3333&sideNums=FF3333&sideLabels=666666" alt="Streak Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decode-Creators&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=999999&icon_color=FF3333" alt="Top Langs" width="49%" />
 </p>
 
 ---
